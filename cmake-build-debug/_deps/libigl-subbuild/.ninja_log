@@ -1,0 +1,37 @@
+# ninja log v5
+0	9	1705188256288145796	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-mkdir	4b396742394949a3
+2649	2657	1705188258936483204	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-test	260f9b30788b88e9
+2632	2640	1705188258919432503	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-build	b2564024727ab1f6
+2640	2649	1705188258928338459	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-install	ae050d6263655579
+2657	2669	1705188258947961047	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/CMakeFiles/libigl-populate-complete	108539070e5ff4ca
+0	9	1705188256288145796	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-mkdir	4b396742394949a3
+9	2582	1705188258861582288	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-download	190561b50454668a
+2583	2614	0	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-update	947f28291639432c
+2583	2614	0	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-update	947f28291639432c
+2623	2632	1705188258910878965	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-configure	140f5849c31dc678
+2623	2632	1705188258910878965	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-configure	140f5849c31dc678
+9	2582	1705188258861582288	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-download	190561b50454668a
+2614	2623	1705188258902134177	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-patch	94058fc435ffb578
+2614	2623	1705188258902134177	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-patch	94058fc435ffb578
+2632	2640	1705188258919432503	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-build	b2564024727ab1f6
+2640	2649	1705188258928338459	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-install	ae050d6263655579
+2657	2669	1705188258947961047	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-done	108539070e5ff4ca
+2649	2657	1705188258936483204	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-test	260f9b30788b88e9
+2657	2669	1705188258947961047	CMakeFiles/libigl-populate-complete	108539070e5ff4ca
+2657	2669	1705188258947961047	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-done	108539070e5ff4ca
+0	40	0	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-update	947f28291639432c
+0	40	0	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-update	947f28291639432c
+40	48	1705220788986510000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-patch	94058fc435ffb578
+40	48	1705220788986510000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-patch	94058fc435ffb578
+48	56	1705220788994382000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-configure	140f5849c31dc678
+48	56	1705220788994382000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-configure	140f5849c31dc678
+56	64	1705220789002321000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-build	b2564024727ab1f6
+56	64	1705220789002321000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-build	b2564024727ab1f6
+64	72	1705220789010263000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-install	ae050d6263655579
+64	72	1705220789010263000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-install	ae050d6263655579
+72	80	1705220789018292000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-test	260f9b30788b88e9
+72	80	1705220789018292000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-test	260f9b30788b88e9
+80	91	1705220789029544000	CMakeFiles/libigl-populate-complete	108539070e5ff4ca
+80	91	1705220789029544000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-done	108539070e5ff4ca
+80	91	1705220789029544000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/CMakeFiles/libigl-populate-complete	108539070e5ff4ca
+80	91	1705220789029544000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-done	108539070e5ff4ca

@@ -1,0 +1,25 @@
+# ninja log v5
+1	99	1705220842946596820	CMakeFiles/core.dir/src/test.cpp.o	c4c1103ff72b7156
+2	463	1705220843307063169	_deps/glfw-build/src/CMakeFiles/glfw.dir/vulkan.c.o	c30a7b4fc5adc8f4
+1	467	1705220843309232117	_deps/glfw-build/src/CMakeFiles/glfw.dir/context.c.o	75baf418c623c26a
+1	467	1705220843309688198	_deps/glfw-build/src/CMakeFiles/glfw.dir/monitor.c.o	6bdd5178030e5ed9
+1	468	1705220843311117649	_deps/glfw-build/src/CMakeFiles/glfw.dir/init.c.o	8b99378e1a1140b
+2	472	1705220843316795870	_deps/glfw-build/src/CMakeFiles/glfw.dir/window.c.o	aba74c21ef1f96cc
+1	473	1705220843317652658	_deps/glfw-build/src/CMakeFiles/glfw.dir/input.c.o	83005f3a41535c7f
+1	644	1705220843486944137	CMakeFiles/core.dir/src/euler_characteristic.cpp.o	bd84e12f76e28416
+0	647	1705220843491287949	CMakeFiles/core.dir/src/edges.cpp.o	dcb274d3a9c1334d
+472	689	1705220843534822063	_deps/glfw-build/src/CMakeFiles/glfw.dir/posix_thread.c.o	a4ae2704c7b5b445
+468	693	1705220843537398008	_deps/glfw-build/src/CMakeFiles/glfw.dir/cocoa_time.c.o	3a4d166a43be5db5
+99	720	1705220843563769667	_deps/glfw-build/src/CMakeFiles/glfw.dir/cocoa_init.m.o	c900cec29f337a1f
+690	744	1705220843592200565	_deps/glad-build/CMakeFiles/glad.dir/src/glad.c.o	56eff31156d0e969
+744	814	1705220843663928000	lib/libglad.a	adfb249961a8df4b
+465	833	1705220843676746431	_deps/glfw-build/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o	6c6750b258ea7a15
+467	844	1705220843688699870	_deps/glfw-build/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o	b1487a6504d3ba60
+647	849	1705220843695502669	_deps/glfw-build/src/CMakeFiles/glfw.dir/osmesa_context.c.o	4ab47b2d3154610d
+646	852	1705220843698693445	_deps/glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.o	49bf211f0b137207
+473	864	1705220843708147772	_deps/glfw-build/src/CMakeFiles/glfw.dir/nsgl_context.m.o	7994be80c5f31096
+467	873	1705220843717715224	_deps/glfw-build/src/CMakeFiles/glfw.dir/cocoa_window.m.o	be70fc2e0e7492b8
+873	893	1705220843743058000	lib/libglfw3.a	f34725010cb217d9
+893	910	1705220843760500000	libcore.a	870f813b5c45887
+1	6489	1705220849302900159	CMakeFiles/introduction.dir/main.cpp.o	4dec53adbe5bf5ae
+6490	6684	1705220849525328746	introduction	bba0fb191f279efb

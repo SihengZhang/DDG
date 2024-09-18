@@ -1,0 +1,37 @@
+# ninja log v5
+0	9	1705188262850411389	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	9741a1c4e1109afd
+0	9	1705188262850411389	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	9741a1c4e1109afd
+2820	2828	1705188265669553929	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	a44e7354bbfb7695
+9	2773	1705188265613655681	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	f279d8c1c19d4e30
+2804	2812	1705188265653398608	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	e2a09e3d1078b284
+2837	2845	1705188265686192003	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	bede7483ea2df967
+2812	2820	1705188265661440227	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	97491e53d6b51d98
+9	2773	1705188265613655681	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	f279d8c1c19d4e30
+2804	2812	1705188265653398608	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	e2a09e3d1078b284
+2845	2856	1705188265697490845	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	9893b1be59871691
+2773	2804	0	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	8c103a2deb3888d8
+2820	2828	1705188265669553929	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	a44e7354bbfb7695
+2773	2804	0	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	8c103a2deb3888d8
+2845	2856	1705188265697490845	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	9893b1be59871691
+2828	2837	1705188265677868258	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	4d4d5f2a7e0e0db5
+2845	2856	1705188265697490845	CMakeFiles/glfw-populate-complete	9893b1be59871691
+2812	2820	1705188265661440227	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	97491e53d6b51d98
+2837	2845	1705188265686192003	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	bede7483ea2df967
+2828	2837	1705188265677868258	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	4d4d5f2a7e0e0db5
+2845	2856	1705188265697490845	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	9893b1be59871691
+0	33	0	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	8c103a2deb3888d8
+0	33	0	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	8c103a2deb3888d8
+33	42	1705220789288548000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	e2a09e3d1078b284
+33	42	1705220789288548000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	e2a09e3d1078b284
+42	50	1705220789296921000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	97491e53d6b51d98
+42	50	1705220789296921000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	97491e53d6b51d98
+50	58	1705220789305246000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	a44e7354bbfb7695
+50	58	1705220789305246000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	a44e7354bbfb7695
+58	66	1705220789313195000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	4d4d5f2a7e0e0db5
+58	66	1705220789313195000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	4d4d5f2a7e0e0db5
+66	74	1705220789321353000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	bede7483ea2df967
+66	74	1705220789321353000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	bede7483ea2df967
+74	86	1705220789332875000	CMakeFiles/glfw-populate-complete	9893b1be59871691
+74	86	1705220789332875000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	9893b1be59871691
+74	86	1705220789332875000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	9893b1be59871691
+74	86	1705220789332875000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	9893b1be59871691

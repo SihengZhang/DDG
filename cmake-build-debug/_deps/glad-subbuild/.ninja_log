@@ -1,0 +1,37 @@
+# ninja log v5
+0	9	1705188265759260535	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-mkdir	9d0350442e3675d5
+818	852	0	glad-populate-prefix/src/glad-populate-stamp/glad-populate-update	f5ecb3e6fa5e6e63
+897	910	1705188266659759903	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/CMakeFiles/glad-populate-complete	6699705495c1679d
+818	852	0	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-update	f5ecb3e6fa5e6e63
+9	818	1705188266568234122	glad-populate-prefix/src/glad-populate-stamp/glad-populate-download	31c2c4507991115f
+852	861	1705188266610814227	glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch	52c36aefca4e2340
+0	9	1705188265759260535	glad-populate-prefix/src/glad-populate-stamp/glad-populate-mkdir	9d0350442e3675d5
+861	873	1705188266622712988	glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure	3a732cfe2feda7fb
+889	897	1705188266647427431	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-test	6f9c11e0d4b7e291
+881	889	1705188266639380770	glad-populate-prefix/src/glad-populate-stamp/glad-populate-install	705b613210fa5d53
+9	818	1705188266568234122	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-download	31c2c4507991115f
+852	861	1705188266610814227	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch	52c36aefca4e2340
+873	881	1705188266631169234	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-build	80fb705e4979ab4b
+873	881	1705188266631169234	glad-populate-prefix/src/glad-populate-stamp/glad-populate-build	80fb705e4979ab4b
+881	889	1705188266639380770	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-install	705b613210fa5d53
+889	897	1705188266647427431	glad-populate-prefix/src/glad-populate-stamp/glad-populate-test	6f9c11e0d4b7e291
+897	910	1705188266659759903	CMakeFiles/glad-populate-complete	6699705495c1679d
+897	910	1705188266659759903	glad-populate-prefix/src/glad-populate-stamp/glad-populate-done	6699705495c1679d
+861	873	1705188266622712988	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure	3a732cfe2feda7fb
+897	910	1705188266659759903	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-done	6699705495c1679d
+0	35	0	glad-populate-prefix/src/glad-populate-stamp/glad-populate-update	f5ecb3e6fa5e6e63
+0	35	0	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-update	f5ecb3e6fa5e6e63
+35	44	1705220789431615000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch	52c36aefca4e2340
+35	44	1705220789431615000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch	52c36aefca4e2340
+44	52	1705220789439953000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure	3a732cfe2feda7fb
+44	52	1705220789439953000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure	3a732cfe2feda7fb
+52	60	1705220789448645000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-build	80fb705e4979ab4b
+52	60	1705220789448645000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-build	80fb705e4979ab4b
+60	69	1705220789456603000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-install	705b613210fa5d53
+60	69	1705220789456603000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-install	705b613210fa5d53
+69	77	1705220789465031000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-test	6f9c11e0d4b7e291
+69	77	1705220789465031000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-test	6f9c11e0d4b7e291
+77	89	1705220789477421000	CMakeFiles/glad-populate-complete	6699705495c1679d
+77	89	1705220789477421000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-done	6699705495c1679d
+77	89	1705220789477421000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/CMakeFiles/glad-populate-complete	6699705495c1679d
+77	89	1705220789477421000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/Assignments/fs-2024-csci-599-exercise-1/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-done	6699705495c1679d
